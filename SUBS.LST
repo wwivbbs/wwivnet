@@ -2,7 +2,7 @@
                      Dated: 06/13/2014  Ping: 06/18/2014  
                             Compiled by Eli #1 @1
 
- ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¶ Flags ÇÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Â¶ Flags Ã‡Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„
  A -  ASK..contact the host, certain restrictions may apply.
  R -  Means that the sub is Auto-Requestable ( > NET29.EXE).
  N -  Means the sub is set by the host for NETWORK VALIDATION
@@ -11,7 +11,7 @@
 
 
 Subtype    Host      Description
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„
 1           1 R     WWIVNET Sysop Area
 GENCHAT     1 R     WWIVNET General Chat
 PARA        1 R     Paranormal Paradox
@@ -45,7 +45,7 @@ ALTWWIV   707 R     USENET alt.bbs.wwiv
 10008     707 R     USENET rec.ham-radio.swap
 10009     707 R     USENET alt.homebrewing
 10010     707 R     USENET microsoft.public.cert.itpro.mcitp
-10011     707 R     USENET alt.tasteless.humor
+
 LINWWIV    60 R     Linux on WWIVnet
 W4LINUX    60 R     WWIV BBS on Linux
 MUSIC     815 GR    MUSIC
