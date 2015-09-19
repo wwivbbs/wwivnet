@@ -1,0 +1,7 @@
+## Git Ignore file for wwivnet
+
+[Rr]elease/
+archives/
+~$*
+*~
+
