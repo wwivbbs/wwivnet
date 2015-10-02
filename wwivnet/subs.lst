@@ -2,7 +2,7 @@
                      Dated: 06/13/2014  Ping: 06/18/2014  
                             Compiled by Eli #1 @1
 
- ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¶ Flags ÇÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Â¶ Flags Ã‡Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„
  A -  ASK..contact the host, certain restrictions may apply.
  R -  Means that the sub is Auto-Requestable ( > NET29.EXE).
  N -  Means the sub is set by the host for NETWORK VALIDATION
@@ -11,7 +11,7 @@
 
 
 Subtype    Host      Description
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„
 1           1 R     WWIVNET Sysop Area
 GENCHAT     1 R     WWIVNET General Chat
 PARA        1 R     Paranormal Paradox
@@ -33,7 +33,7 @@ GEOOUCH   707 R     Lesson Learned~11
 WWSET     707 R     General setup q&a for WWIV v5.0~3
 NETTEST   707 R     Test SUB for testing your net posts.
 WDOOR     707 R     WWIV Door game and utility support
-ALTWWIV   707 R     USENET alt.bbs.wwiv
+10014     707 R     USENET alt.bbs.wwiv
 10001     707 R     USENET alt.bbs.doors
 10013     707 R     UseNet BBS Ads. Get the word out!
 10002     707 R     USENET comp.sys.cbm
@@ -42,9 +42,9 @@ ALTWWIV   707 R     USENET alt.bbs.wwiv
 10005     707 R     USENET alt.2600.cracks
 10006     707 R     USENET rec.radio.swap
 10007     707 R     USENET alt.nature.mushrooms
-10008     707 R     USENET rec.ham-radio.swap
+
 10009     707 R     USENET alt.homebrewing
-10010     707 R     USENET microsoft.public.cert.itpro.mcitp
+
 LINWWIV    60 R     Linux on WWIVnet
 W4LINUX    60 R     WWIV BBS on Linux
 MUSIC     815 GR    MUSIC
