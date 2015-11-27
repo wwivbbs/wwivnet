@@ -10,14 +10,13 @@
 
 Subtype    Host      Description
 ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
-1           1 R     WWIVNET Sysop Area
+WWIVSYS     1 R     WWIVNET Sysop Area
 GENCHAT     1 R     WWIVNET General Chat
-PARA        1 R     Paranormal Paradox
 WWIVDEV     1 R     WWIV Development
 WWIVNET     1 R     WWIV Networking
-ANSIART     1 AR    Ansi Art
-FIRESQ      1 R     The Firing Squad
-BASIC       1 R     Eli's Basic Programing Sub
+ANSIART     1 R     Ansi Art Gallery
+CARS        1 R     Automotive
+WEATHER     1 R     National Weather Network
 MODNET    177 R     WWIV Mods
 NETXTST   177 R     NetX Test Sub
 NETXDEV   177 R     NetX Development Sub
