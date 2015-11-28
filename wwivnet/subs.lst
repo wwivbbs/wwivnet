@@ -30,18 +30,12 @@ GEOOUCH   707 R     Lesson Learned
 WWSET     707 R     General setup q&a for WWIV v5.0
 NETTEST   707 R     Test SUB for testing your net posts
 WDOOR     707 R     WWIV Door game and utility support
-10014     707 R     USENET alt.bbs.wwiv
-10001     707 R     USENET alt.bbs.doors
-10013     707 R     UseNet BBS Ads. Get the word out!
-10002     707 R     USENET comp.sys.cbm
-10003     707 R     USENET rec.games.video.arcade.collecting
-10004     707 R     USENET alt.rec.geocaching
-10005     707 R     USENET alt.2600.cracks
-10006     707 R     USENET rec.radio.swap
-10007     707 R     USENET alt.nature.mushrooms
-
-10009     707 R     USENET alt.homebrewing
-
+ABBSW     707 GR    USENET alt.bbs.wwiv WWIV BBS Chat
+ABBSD     707 GR    USENET alt.bbs.doors BBS Door chat
+ABBSA     707 GR    USENET alt.bbs.ads BBS Advertisements
+CSCBM     707 GR    USENET comp.sys.cbm Commodore discussions
+UNANM     707 GR    USENET alt.nature.mushrooms Foraging for wild mushrooms
+UNAHB     707 GR    USENET alt.homebrewing Beer brewing topics
 LINWWIV    60 R     Linux on WWIVnet
 W4LINUX    60 R     WWIV BBS on Linux
 MUSIC     815 GR    MUSIC
