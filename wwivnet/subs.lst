@@ -14,6 +14,7 @@ WWIVSYS     1 R     WWIVNET Sysop Area
 GENCHAT     1 R     WWIVNET General Chat
 WWIVDEV     1 R     WWIV Development
 WWIVNET     1 R     WWIV Networking
+WWIVMOD     1 R     WWIV Modifications
 ANSIART     1 R     Ansi Art Gallery
 CARS        1 R     Automotive
 WEATHER     1 R     National Weather Network
