@@ -1,47 +1,180 @@
-                          WWIVNET Official SUBS.LST
-
- รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยถ Flags รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรร
- A -  ASK..contact the host, certain restrictions may apply.
- R -  Means that the sub is Auto-Requestable ( > NET29.EXE).
- N -  Means the sub is set by the host for NETWORK VALIDATION
- G -  Means the sub is GATED from/to another network.
- T -  Means this sub does NOT allow TAGLINES
 
 
-Subtype    Host      Description
-รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรร
-WWIVSYS     1 R     WWIVNET Sysop Area
-GENCHAT     1 R     WWIVNET General Chat
-WWIVDEV     1 R     WWIV Development
-WWIVNET     1 R     WWIV Networking
-WWIVMOD     1 R     WWIV Modifications
-ANSIART     1 R     Ansi Art Gallery
-CARS        1 R     Automotive
-WEATHER     1 R     National Weather Network
-MODNET    177 R     WWIV Mods
-NETXTST   177 R     NetX Test Sub
-NETXDEV   177 R     NetX Development Sub
-NETXREL   177 R     NetX Release Sub
-COOKING   177 R     Cooking 
-CQCQHAM   206 R     CQ CQ CQ Ham Radio
-GEOGEN    707 R     Geocaching General
-GEOPUZ    707 R     Puzzle Caching
-GEOEXT    707 R     Extreme Geocaching
-GEOOUCH   707 R     Lesson Learned
-WWSET     707 R     General setup q&a for WWIV v5.0
-NETTEST   707 R     Test SUB for testing your net posts
-WDOOR     707 R     WWIV Door game and utility support
-ABBSW     707 GR    USENET alt.bbs.wwiv WWIV BBS Chat
-ABBSD     707 GR    USENET alt.bbs.doors BBS Door chat
-ABBSA     707 GR    USENET alt.bbs.ads BBS Advertisements
-CSCBM     707 GR    USENET comp.sys.cbm Commodore discussions
-UNANM     707 GR    USENET alt.nature.mushrooms Foraging for wild mushrooms
-UNAHB     707 GR    USENET alt.homebrewing Beer brewing topics
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 1.   Sysop Related
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
 LINWWIV    60 R     Linux on WWIVnet
+NETTEST   707 R     Test SUB for testing your net posts.
 W4LINUX    60 R     WWIV BBS on Linux
-MUSIC     815 GR    MUSIC
-WEIRDN    815 R     Weird News Stories
-WWIVFTN   815 GR    WWIV BBS [FTN]
-YELLOW    815 R     Yellow Pages for Subs
-POLI      815 R     Political discussions hosted here
-TECH      815 R     Electronics, computers, phones and more
+WDOOR     707 R     WWIV Door game and utility support
+WWIVFTN   815 GR    WWIV with FTN Networking
+WWIVMOD     1 R     WWIV Modifications [WWIVnet]
+WWIVSYS     1 R     Sysop Area [WWIVnet]
+YELLOW    815 R     WWIVNet Yellow Pages
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 2.   General Discussion
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+GENCHAT     1 R     General Chat [WWIVnet]
+WEATHER     1 NR    National Weather [WWIVnet]
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 3.   Computer Science/Programming/Mods/Hardware/Software Topics
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+APACHE    900 R     Apache HTTP Server Discussion and Help
+ITTALES   707 R     WWIVnet Tales from the trenches
+PHPTALK   900 R     WWIVNet PHP Discussion - Help - Ideas
+TECH      815 R     Tech Talk
+WWSET     707 R     General setup q&a for setting up your WWIV BBS
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 4.   Individual Network Specific
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+ -- NONE --
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 5.   Local Area/Group/Region Discussions
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+ -- NONE --
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 6.   Science/Science Fiction/Fantasy/RPGs/D&D/AD&D
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+ -- NONE --
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 7.   Buy/Sell/Trade
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+ -- NONE --
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 8.   News/Politics and Related Topics
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+POLI      815 R     WWIV Door game and utility support
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 9.   Religion/Philosophy
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+ -- NONE --
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 10.  Entertainment/ANSI/Jokes/Etc..
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+ANSIART     1 RT    Ansi Art Gallery
+MUSIC     815 GR    Music
+WEIRDN    815 R     Weird News Items
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 11.  Hobbies/Leisure Time/Art/Books/Pets/Professional Sports
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+CARS        1 R     Automotive [WWIVnet]
+COOKING   815 R     WWIVNet Cooking and Food
+CQCQHAM   206 R     Ham Radio Discussion of all kinds
+GEOEXT    707 R     Extreme Geocaching
+GEOGEN    707 R     Geocaching General
+GEOOUCH   707 R     Lesson Learned
+GEOPUZ    707 R     Puzzle Caching
+WWBAR     707 R     Cocktails and mixed drink recipes
+WWIVDEV     1 R     WWIV Development [WWIVnet]
+WWIVNET     1 R     WWIV Networking
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 12.  Education Related Topics/School/Logic
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+ -- NONE --
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 13.  Social/Life Topics and Styles/Alternative Life Styles
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+ -- NONE --
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 14.  Age Group/Gender Specific
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+ -- NONE --
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 15.  Adult Only Topics
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+ -- NONE --
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 16.  Music/Television/Movies
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+PROG        1 R     Progressive Rock/Metal Talk
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 17.  Internet Newsgroups
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+ABBSA     707 R     UseNet Echo: alt.bbs.ads
+ABBSD     707 R     UseNet Echo: alt.bbs.doors
+ABBSW     707 R     UseNet Echo: alt.bbs.wwiv
+CSCBM     707 R     USENET comp.sys.cbm
+UNAHB     707 R     USENET alt.homebrewing
+UNANM     707 R     USENET alt.nature.mushrooms
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ 99.  Miscellaneous (Does Not Fit Into Any Above Category)
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+ -- NONE --
+
+
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ Uncategorized Subs
+
+ SubType Host Flags Description
+ ====== ----- ===== ----------------------------------------------------------
+ -- NONE --
