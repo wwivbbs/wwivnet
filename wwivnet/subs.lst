@@ -29,9 +29,7 @@ WEATHER     1 NR    National Weather [WWIVnet]
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-APACHE    900 R     Apache HTTP Server Discussion and Help
 ITTALES   707 R     WWIVnet Tales from the trenches
-PHPTALK   900 R     WWIVNet PHP Discussion - Help - Ideas
 TECH      815 R     Tech Talk
 WWSET     707 R     General setup q&a for setting up your WWIV BBS
 
@@ -108,7 +106,7 @@ GEOOUCH   707 R     Lesson Learned
 GEOPUZ    707 R     Puzzle Caching
 WWBAR     707 R     Cocktails and mixed drink recipes
 WWIVDEV     1 R     WWIV Development [WWIVnet]
-WWIVNET     1 R     WWIV Networking
+WWIVNET     1 R     WWIV Networking [WWIVnet]
 
 
 様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
@@ -177,4 +175,3 @@ UNANM     707 R     USENET alt.nature.mushrooms
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
- -- NONE --
