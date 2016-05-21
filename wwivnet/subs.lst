@@ -29,6 +29,7 @@ WEATHER     1 NR    National Weather [WWIVnet]
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
+CSAMIGA   103 GRT   [Usenet] comp.sys.amiga
 ITTALES   707 R     WWIVnet Tales from the trenches
 TECH      815 R     Tech Talk
 WWSET     707 R     General setup q&a for setting up your WWIV BBS
@@ -97,6 +98,7 @@ WEIRDN    815 R     Weird News Items
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
+AUTOX     103 R     SCCA Autocross
 CARS        1 R     Automotive [WWIVnet]
 COOKING   815 R     WWIVNet Cooking and Food
 CQCQHAM   206 R     Ham Radio Discussion of all kinds
@@ -158,8 +160,10 @@ ABBSA     707 R     UseNet Echo: alt.bbs.ads
 ABBSD     707 R     UseNet Echo: alt.bbs.doors
 ABBSW     707 R     UseNet Echo: alt.bbs.wwiv
 CSCBM     707 R     USENET comp.sys.cbm
+JOBSUSA   105 GR    NAtion Wide Job Postings [UseNet]
 UNAHB     707 R     USENET alt.homebrewing
 UNANM     707 R     USENET alt.nature.mushrooms
+USALBBS   105 GR    Alt.bbs [NewsGroup]
 
 
 様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
