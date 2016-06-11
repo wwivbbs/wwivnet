@@ -39,4 +39,18 @@ Notes
 	    (bbs.weather-station.org) and email me the application or 
          Internet email to:  mark@weather-station.org
 
+Echos Available
+---------------
+
+         WWIV_GENCHAT - General Chat
+         WWIV_WEATHER - Weather
+         WWIV_MUSIC   - Music
+         WWIV_ANSI    - ANSI Art Gallery
+         WWIV_MODS    - WWIV Mods
+         WWIV_NET     - WWIV Networking
+         WWIV_DEV     - WWIV Development
+         WWIV_SYSOP   - WWIVnet Sysops
+         WWIV_TEST    - Test Posts
+         WWIV_AUTO    - Automotive
+         WWIV_TECH    - Technology
 
