@@ -1,4 +1,4 @@
-;A WWIVnet-FTN Nodelist for Friday, June 3, 2016 -- Day number 155 : 08061
+;A WWIVnet-FTN Nodelist for Friday, June 11, 2016 -- Day number 162
 ;S Copyright 2016, WWIVnet-FTN, All rights reserved.
 ;S
 ;S
@@ -41,19 +41,20 @@
 ;S
 ;S == ChangeLog ================================================================
 ;S
-;S 2016-05-25
-;S Added - Node xxx - 
+;S 2016-06-11
+;S Added - Node 200 - Cybernet BBS 
 ;S
 ;S ================================================ UPDATED = 2016-05-25 =======
 ;S
 ;S
 ;S
 ;
-Zone,11,Weather_Station_HUB,Bel_Air_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org,IBN:24555
+Zone,11,Weather_Station_HUB,Bel_Air_MD_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org,IBN:24555
 ;
-Region,1,Weather_Station_HUB,Bel_Air_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org,IBN:24555
-,100,Weather_Station_HUB,Bel_Air_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org,IBN:24555
-,101,Weather_Station_BBS,Bel_Air_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org,IBN
+Region,1,Weather_Station_HUB,Bel_Air_MD_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org,IBN:24555
+,100,Weather_Station_HUB,Bel_Air_MD_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org,IBN:24555
+,101,Weather_Station_BBS,Bel_Air_MD_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org,IBN
+,200,CyberNet_BBS,Lindale_TX_USA,Chad_Adams,-Unpublished-,300,CM,INA:bbs.cybernetbbs.net,IBN
 
 Pvt,999,New_System,AnyTown_AnyCountry,New_Sysop,-Unpublished-,300
 ;S
