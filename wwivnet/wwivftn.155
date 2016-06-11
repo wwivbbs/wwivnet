@@ -3,29 +3,40 @@
 ;S
 ;S
 ;S 			                 WWIVnet-FTN
+;S                (WWIVnet-FTN is WWIVnet via FTN.)
 ;S
 ;S 			 ==== A weekly nodelist for the WWIVnet-FTN ====
 ;S
 ;S 			               (www.wwivbbs.org)
-;S
-;S WWIVnet-FTN is WWIVnet via FTN.
-;S
+;S            Current/updated nodelist files available here:  
+;S         https://github.com/wwivbbs/wwivnet/tree/master/wwivnet
 ;S
 ;S
 ;S == GOALS ====================================================================
 ;S
-;S == Housekeeping =============================================================
+;S * Make WWIVnet available to all BBS systems.
 ;S
+;S == Housekeeping =============================================================
 ;S
 ;S * Real names or aliases used in the nodelist, aliases or real names welcome in
 ;S   all echoareas.
 ;S
-;S
 ;S == Echoareas ================================================================
+;S
 ;S
 ;S Message Echos:
 ;S
 ;S WWIV_GENCHAT - General Chat
+;S WWIV_WEATHER - Weather
+;S WWIV_MUSIC   - Music
+;S WWIV_ANSI    - ANSI Art Gallery
+;S WWIV_MODS    - WWIV Mods
+;S WWIV_NET     - WWIV Networking
+;S WWIV_DEV     - WWIV Development
+;S WWIV_SYSOP   - WWIVnet Sysops
+;S WWIV_TEST    - Test Posts
+;S WWIV_AUTO    - Automotive
+;S WWIV_TECH    - Technology
 ;S
 ;S
 ;S == ChangeLog ================================================================
