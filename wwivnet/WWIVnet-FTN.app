@@ -26,8 +26,8 @@ Notes
       -  The WWIVnet-FTN hub is running D'Bridge.  D'Bridge uses the same
          password for "Binkp Session Password" as the "Packet
          Password".  I can make them different, but when a Session Password
- 		 is set - it will also set the Packet Password
-	    (will use the same PW).
+         is set - it will also set the Packet Password
+         (will use the same PW).
 		
       -  The destination BinkP port for my D'Bridge hub is 24555
         (as noted in the Nodelist).
@@ -35,7 +35,8 @@ Notes
       -  Current Nodelist:
          https://github.com/wwivbbs/wwivnet/tree/master/wwivnet
 		 
-      -  Please use wwivftn for the domain name when creating the network to avoid MD5 session PW issues.
+      -  Please use wwivftn for the domain name when creating the network to
+         avoid MD5 CRAM session PW issues.
 
       -  To submit the application, please log into my BBS 
 	    (bbs.weather-station.org) and email me the application or 
