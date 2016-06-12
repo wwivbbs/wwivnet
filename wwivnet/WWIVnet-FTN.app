@@ -30,12 +30,12 @@ Notes
 	    (will use the same PW).
 		
       -  The destination BinkP port for my D'Bridge hub is 24555
-      	 (as noted in the Nodelist).
+        (as noted in the Nodelist).
 
-      -  Current Nodelist: 
-	     https://github.com/wwivbbs/wwivnet/tree/master/wwivnet
+      -  Current Nodelist:
+         https://github.com/wwivbbs/wwivnet/tree/master/wwivnet
 		 
-	  -  Please use wwivftn for the domain name when creating the network to avoid MD5 session PW issues.
+      -  Please use wwivftn for the domain name when creating the network to avoid MD5 session PW issues.
 
       -  To submit the application, please log into my BBS 
 	    (bbs.weather-station.org) and email me the application or 
