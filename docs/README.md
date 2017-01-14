@@ -1,3 +1,1 @@
 # This is README.md
-
-MORE INFO COMING SOON
