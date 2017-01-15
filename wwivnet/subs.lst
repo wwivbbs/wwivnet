@@ -9,10 +9,10 @@ LINWWIV    60 R     Linux on WWIVnet
 NETTEST   707 R     Test SUB for testing your net posts.
 W4LINUX    60 R     WWIV BBS on Linux
 WDOOR     707 R     WWIV Door game and utility support
-WWIVFTN   815 GR    WWIV with FTN Networking
-WWIVMOD     1 R     WWIV Modifications [WWIVnet]
-WWIVSYS     1 R     Sysop Area [WWIVnet]
-YELLOW    815 R     WWIVNet Yellow Pages
+WWIVFTN   815 GR    WWIV [FTN]
+WWIVMOD     1 GR    WWIV Modifications [WWIVnet]
+WWIVSYS     1 GR    Sysop Area [WWIVnet]
+YELLOW    815 R     WWIVNet Advertisements
 
 
 様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
@@ -20,8 +20,8 @@ YELLOW    815 R     WWIVNet Yellow Pages
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-GENCHAT     1 R     General Chat [WWIVnet]
-WEATHER     1 NR    National Weather [WWIVnet]
+GENCHAT     1 GR    General Chat [WWIVnet]
+WEATHER     1 GR    National Weather [WWIVnet]
 
 
 様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
@@ -29,8 +29,8 @@ WEATHER     1 NR    National Weather [WWIVnet]
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-CSAMIGA   103 GRT   [Usenet] comp.sys.amiga
 ITTALES   707 R     WWIVnet Tales from the trenches
+RETCOMP   103 R     Retro Computing
 TECH      815 R     Tech Talk
 WWSET     707 R     General setup q&a for setting up your WWIV BBS
 
@@ -72,7 +72,7 @@ WWSET     707 R     General setup q&a for setting up your WWIV BBS
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-POLI      815 R     WWIV Door game and utility support
+ -- NONE --
 
 
 様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
@@ -88,8 +88,7 @@ POLI      815 R     WWIV Door game and utility support
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-ANSIART     1 RT    Ansi Art Gallery
-MUSIC     815 GR    Music
+ANSIART     1 GRT   ANSI Art Gallery [WWIVnet]
 WEIRDN    815 R     Weird News Items
 
 
@@ -98,8 +97,7 @@ WEIRDN    815 R     Weird News Items
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-AUTOX     103 R     SCCA Autocross
-CARS        1 R     Automotive [WWIVnet]
+CARS        1 GR    Automotive [WWIVnet]
 COOKING   815 R     WWIVNet Cooking and Food
 CQCQHAM   206 R     Ham Radio Discussion of all kinds
 GEOEXT    707 R     Extreme Geocaching
@@ -107,8 +105,8 @@ GEOGEN    707 R     Geocaching General
 GEOOUCH   707 R     Lesson Learned
 GEOPUZ    707 R     Puzzle Caching
 WWBAR     707 R     Cocktails and mixed drink recipes
-WWIVDEV     1 R     WWIV Development [WWIVnet]
-WWIVNET     1 R     WWIV Networking [WWIVnet]
+WWIVDEV     1 GR    WWIV Development [WWIVnet]
+WWIVNET     1 GR    WWIV Networking [WWIVnet]
 
 
 様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
@@ -148,7 +146,7 @@ WWIVNET     1 R     WWIV Networking [WWIVnet]
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-PROG        1 R     Progressive Rock/Metal Talk
+PROG        1 GR    Music Discussion [WWIVnet]
 
 
 様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
@@ -160,10 +158,8 @@ ABBSA     707 R     UseNet Echo: alt.bbs.ads
 ABBSD     707 R     UseNet Echo: alt.bbs.doors
 ABBSW     707 R     UseNet Echo: alt.bbs.wwiv
 CSCBM     707 R     USENET comp.sys.cbm
-JOBSUSA   105 GR    NAtion Wide Job Postings [UseNet]
 UNAHB     707 R     USENET alt.homebrewing
 UNANM     707 R     USENET alt.nature.mushrooms
-USALBBS   105 GR    Alt.bbs [NewsGroup]
 
 
 様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
@@ -179,3 +175,4 @@ USALBBS   105 GR    Alt.bbs [NewsGroup]
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
+DEMON      62 R     The Paranormal
