@@ -93,8 +93,7 @@ WWIVnet-FTN Specific Information:
 - The destination BinkP port for my D'Bridge hub is ```24555```
   (as noted in the Nodelist).
 - The Current Nodelist is available from:
-  [https://github.com/wwivbbs/wwivnet/tree/master/wwivnet]
-  (https://github.com/wwivbbs/wwivnet/tree/master/wwivnet)
+  [https://github.com/wwivbbs/wwivnet/tree/master/wwivnet](https://github.com/wwivbbs/wwivnet/tree/master/wwivnet)
 - Please use wwivftn for the domain name when creating the network to
   avoid MD5 CRAM session PW issues.
 - To submit the application, please log into my BBS 
