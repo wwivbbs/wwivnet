@@ -33,50 +33,55 @@ Coordinator, Weatherman 1@1 WWIVnet or email mark@weather-station.org
 
 ```
 
-    =============================================================================
-       WWIV Network Application for Membership
-    -----------------------------------------------------------------------------
-    SYSTEM OPERATOR INFORMATION:
-        Real Full Name    :
-        Your Handle/Alias :
-        Home Phone Number : 
-        Best Hours to Call: 
-        Street/Mailing Address: 
-        City: 
-        State:      Zip Code:
+=========================================================
+   WWIV Network Application for Membership
+---------------------------------------------------------
+Today's Date..................:
+Network Type..................: [ ] WWIVnet Native
+..............................: [ ] Fidonet Style (FTN)
     
-    BBS INFORMATION:
 
-    Bulletin Board Name:
-    Phone/Telnet Address:
-    Location............:
-    BBS Software........:
-    Website URL.........:
-    Operating System....:
-    Hours of operation..: 
-    Months the BBS has been up: 
-    WWIV Software Version:               
-    Reg Number (if you have one): 
-    Other networks you carry:
+SYSTEM OPERATOR INFORMATION:
+	Real Full Name............:
+	Your Handle/Alias.........:
+	Home Phone Number.........: 
+	Best Hours to Call........: 
+	Street/Mailing Address....: 
+	City......................: 
+	State.....................:      
+	Zip Code..................:
 
-    Date:
-    Network Type: [ ] WWIVnet Native
-                  [ ] Fidonet Style (FTN)
-    
-If Joining WIVnet-FTN (please complete this section)
--------------------------
+BBS INFORMATION:
 
-    Mail tosser.........:
-    Areafix Password....:
-    
-    BinkP Info:
-    Session Password....:
-    Binkp address/port..:
-	  Crash or Hold.......:
+	Bulletin Board Name.......:
+	Phone/Telnet Address......:
+	Location..................:
+	BBS Software..............:
+	Software Version..........:               
+	Website URL...............:
+	Operating System..........:
+	Hours of operation........: 
+	Months online.............: 
+	Reg Number (if available).: 
+	Other networks you carry..:
+
+WWIVnet-FTN Specific Information:
+
+    Mailer Software/Verson....:
+	Mail tosser...............:
+	Areafix Password..........:
+
+	BINKP INFORMATION:
+	Session Password..........:
+	Binkp address/port........:
+	Crash or Hold.............:
+
+---------------------------------------------------------
+[END]
 
 ```
 
------------------------------------------------------------------------------
+---
 
 FTN Notes
 ---------
@@ -85,16 +90,12 @@ FTN Notes
    Password".  I can make them different, but when a Session Password
    is set - it will also set the Packet Password
    (will use the same PW).
-
 -  The destination BinkP port for my D'Bridge hub is ```24555```
-  (as noted in the Nodelist).
-
+   (as noted in the Nodelist).
 -  The Current Nodelist is available from:
    https://github.com/wwivbbs/wwivnet/tree/master/wwivnet
-
 -  Please use wwivftn for the domain name when creating the network to
    avoid MD5 CRAM session PW issues.
-
 -  To submit the application, please log into my BBS 
    (bbs.weather-station.org) and email me the application or 
    Internet email to:  mark@weather-station.org
