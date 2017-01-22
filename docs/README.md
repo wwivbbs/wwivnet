@@ -1,26 +1,26 @@
-# WWIVnet
+# About WWIVnet?
 
-## About WWIVnet?
 WWIVnet refers to a WWIV BBS based Net that uses WWIV's message and network 
 packet system to share email and sub messages. There are and have been other 
 WWIVnet based networks, similiar to how there are more than one FidoNet 
 Technology based net. 
 
-Please refer to the [WWIV Documentation](http://docs.wwivbbs.org) for more
+Please refer to the [WWIV Documentation (docs.wwivbbs.org)](http://docs.wwivbbs.org) for more
 information about WWIV Networking.
 
 For the purpose of this page, WWIVnet refers to the specific instance of a 
 WWIVnet that is the primary network for WWIV BBSes called WWIVnet.
 
 
-## Joining WWIVnet
+# Joining WWIVnet
 
 Thanks for your interest in WWIVnet. We offer two flavors of
 networking to connect to WWIVnet.  We have native WWIVnet style
 networking, as well as support joining using Fido Network Technology
 (FTN) networking.
 
-## WWIVnet Application for Membership
+
+# WWIVnet Application
 
 WWIVnet is a mail network for WWIV, and compatible bulletin board
 systems. If you would like to join, please fill out this application.
@@ -83,25 +83,27 @@ WWIVnet-FTN Specific Information:
 
 ---
 
-FTN Notes
----------
--  The WWIVnet-FTN hub is running D'Bridge.  D'Bridge uses the same
-   password for "Binkp Session Password" as the "Packet
-   Password".  I can make them different, but when a Session Password
-   is set - it will also set the Packet Password
-   (will use the same PW).
--  The destination BinkP port for my D'Bridge hub is ```24555```
-   (as noted in the Nodelist).
--  The Current Nodelist is available from:
-   https://github.com/wwivbbs/wwivnet/tree/master/wwivnet
--  Please use wwivftn for the domain name when creating the network to
-   avoid MD5 CRAM session PW issues.
--  To submit the application, please log into my BBS 
-   (bbs.weather-station.org) and email me the application or 
-   Internet email to:  mark@weather-station.org
+# Notes about WWIVnet-FTN
+
+- The WWIVnet-FTN hub is running D'Bridge.  D'Bridge uses the same
+  password for ```Binkp Session Password``` as the 
+  ```Packet Password```. I can make them different, but when a 
+  Session Password is set - it will also set the Packet Password
+  (will use the same PW).
+- The destination BinkP port for my D'Bridge hub is ```24555```
+  (as noted in the Nodelist).
+- The Current Nodelist is available from:
+  [https://github.com/wwivbbs/wwivnet/tree/master/wwivnet]
+  (https://github.com/wwivbbs/wwivnet/tree/master/wwivnet)
+- Please use wwivftn for the domain name when creating the network to
+  avoid MD5 CRAM session PW issues.
+- To submit the application, please log into my BBS 
+  (bbs.weather-station.org) and email me the application or 
+  Internet email to:
+  [mark@weather-station.org](mailto:mark@weather-station.org)
 
 
-## FTN Echomail Areas Available
+# FTN Echomail Areas Available
 
 | Echo Tag | Description |
 | -------- | ----------- |
