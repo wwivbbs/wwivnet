@@ -5,15 +5,11 @@
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-LINWWIV    60 R     Linux on WWIVnet
 NETTEST   707 R     Test SUB for testing your net posts.
-W4LINUX    60 R     WWIV BBS on Linux
 WDOOR     707 R     WWIV Door game and utility support
-WWIVFTN   815 GR    WWIV [FTN]
 WWIVMOD     1 GR    WWIV Modifications [WWIVnet]
-WWIVRPI    90 R     WWIV BBS on Raspberry Pi
+WWIVRPI    90 R     WWIV on Raspberry Pi
 WWIVSYS     1 GR    Sysop Area [WWIVnet]
-YELLOW    815 R     WWIVNet Advertisements
 
 
 様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
@@ -31,8 +27,6 @@ WEATHER     1 GR    National Weather [WWIVnet]
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
 ITTALES   707 R     WWIVnet Tales from the trenches
-RETCOMP   103 R     Retro Computing
-TECH      815 R     Tech Talk
 WWSET     707 R     General setup q&a for setting up your WWIV BBS
 
 
@@ -57,7 +51,19 @@ WWSET     707 R     General setup q&a for setting up your WWIV BBS
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
- -- NONE --
+BABYLN5   111 R     Babylon 5 - The last best hope for peace
+CWSUPRS   111 R     CW Superhero Shows (The Flash, etc.)
+DRWHO     111 R     Doctor Who - Which is your fav Doctor?
+FARSCAP   111 R     Farscape
+FIREFLY   111 R     Firefly & Serenity-Can't stop the signal
+FUTURE    112 R     That Distant Tomorrow
+NETFLIX   111 R     Netflix Shows (Stranger Things, etc.)
+SCIFANT   111 R     Sci-Fi / Fantasy General Discussion
+SFCONS    111 R     Sci-Fi / Fantasy / Comicbook Conventions
+STRGATE   111 R     Stargate - Unlock the Universe!
+STRTREK   111 R     Star Trek - Space, the final frontier...
+STRWARS   111 R     Star Wars - A long time ago...
+SYFYSHW   111 R     SyFy Shows (Krypton, The Expanse, etc.)
 
 
 様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
@@ -90,7 +96,8 @@ WWSET     707 R     General setup q&a for setting up your WWIV BBS
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
 ANSIART     1 GRT   ANSI Art Gallery [WWIVnet]
-WEIRDN    815 R     Weird News Items
+CCGAMES   111 R     Collectible Card Games (MTG, etc.)
+GAMING    111 R     General Gaming Discussion
 
 
 様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
@@ -99,7 +106,6 @@ WEIRDN    815 R     Weird News Items
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
 CARS        1 GR    Automotive [WWIVnet]
-COOKING   815 R     WWIVNet Cooking and Food
 CQCQHAM   206 R     Ham Radio Discussion of all kinds
 GEOEXT    707 R     Extreme Geocaching
 GEOGEN    707 R     Geocaching General
@@ -155,10 +161,11 @@ PROG        1 GR    Music Discussion [WWIVnet]
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-ABBSA     707 R     UseNet Echo: alt.bbs.ads
+ABBSA     707 RT    UseNet Echo: alt.bbs.ads
 ABBSD     707 R     UseNet Echo: alt.bbs.doors
 ABBSW     707 R     UseNet Echo: alt.bbs.wwiv
 CSCBM     707 R     USENET comp.sys.cbm
+UNAC64    707 R     USEnet alt.c64
 UNAHB     707 R     USENET alt.homebrewing
 UNANM     707 R     USENET alt.nature.mushrooms
 
@@ -168,7 +175,7 @@ UNANM     707 R     USENET alt.nature.mushrooms
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
- -- NONE --
+WRITING   111 R     General Writing Discussion
 
 
 様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
