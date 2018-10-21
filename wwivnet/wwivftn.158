@@ -1,4 +1,4 @@
-;A WWIVnet-FTN Nodelist for Tuesday, June 06, 2017 -- Day number 157
+;A WWIVnet-FTN Nodelist for Sunday, October 21, 2018 -- version number 158
 ;S Copyright 2016, WWIVnet-FTN, All rights reserved.
 ;S
 ;S
@@ -81,6 +81,9 @@
 ;
 ;S 2017-06-06
 ;S Added - Node 220 - Necronomicon BBS
+;
+;S 2018-10-21
+;S Added - Node 221 - The New Frontier ][ BBS
 ;S ==============================================================================================================
 ;S
 ;S
@@ -113,6 +116,8 @@ Region,1,Weather_Station_HUB,Bel_Air_MD_USA,Mark_Hofmann,-Unpublished-,300,CM,IN
 ,218,Serpent's Shrine,Toowoomba_Queensland_Australia,Andrew_Pamment,-Unpublished-,300,CM,INA:andrew.homeunix.org,IBN:24556
 ,219,The_Hub,Watauga_TX_USA,David_DeWell,-Unpublished-,300,CM,INA:bbs.bbshub.net,IBN
 ,220,Necronomicon_BBS,New_Bedford_MA_USA,Carlos_Roldan,-Unpublished-,300,CM,INA:necrobbs.strangled.net,IBN
+,221,The_New_Frontier_][_BBS,Akron_OH_USA,Charles_Stephenson,-Unpublished-,300,CM,INA:thenewfrontier2.hopto.org,IBN:24555
+
 
 
 Pvt,999,New_System,AnyTown_AnyCountry,New_Sysop,-Unpublished-,300
