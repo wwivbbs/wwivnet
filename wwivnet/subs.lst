@@ -5,7 +5,6 @@
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-NETTEST   707 R     Test SUB for testing your net posts.
 WDOOR     707 R     WWIV Door game and utility support
 WWIVMOD     1 GR    WWIV Modifications [WWIVnet]
 WWIVRPI    90 R     WWIV on Raspberry Pi
@@ -27,6 +26,7 @@ WEATHER     1 GR    National Weather [WWIVnet]
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
 ITTALES   707 R     WWIVnet Tales from the trenches
+NETTEST   707 R     Test SUB for testing your net posts.
 WWSET     707 R     General setup q&a for setting up your WWIV BBS
 
 
@@ -105,12 +105,24 @@ GAMING    111 R     General Gaming Discussion
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
+ANTFEE    116 R     Antennas & Feedlines
+ARNEWS    116 R     Amateur Radio Newsline
 CARS        1 GR    Automotive [WWIVnet]
+CLASEQ    116 R     Classic Equipment
+CONSE     116 R     Contests & Special Events
 CQCQHAM   206 R     Ham Radio Discussion of all kinds
+DXZONE    116 R     The DX Zone
+FCCUPD    116 R     Daily FCC Updates
 GEOEXT    707 R     Extreme Geocaching
 GEOGEN    707 R     Geocaching General
 GEOOUCH   707 R     Lesson Learned
 GEOPUZ    707 R     Puzzle Caching
+HAMFEST   116 R     Hamfest Reports
+HAMSALE   116 R     Ham Gear For Sale/Trade
+MICSP     116 R     Microphones & Speakers
+MODES     116 R     Working Different Modes
+RAGCHEW   116 R     Rag Chew
+SKEDS     116 R     Sked - QSO Scheduling
 WWBAR     707 R     Cocktails and mixed drink recipes
 WWIVDEV     1 GR    WWIV Development [WWIVnet]
 WWIVNET     1 GR    WWIV Networking [WWIVnet]
@@ -161,13 +173,13 @@ PROG        1 GR    Music Discussion [WWIVnet]
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-ABBSA     707 RT    UseNet Echo: alt.bbs.ads
-ABBSD     707 R     UseNet Echo: alt.bbs.doors
-ABBSW     707 R     UseNet Echo: alt.bbs.wwiv
-CSCBM     707 R     USENET comp.sys.cbm
-UNAC64    707 R     USEnet alt.c64
-UNAHB     707 R     USENET alt.homebrewing
-UNANM     707 R     USENET alt.nature.mushrooms
+ABBSA     707 GRT   UseNet Echo: alt.bbs.ads
+ABBSD     707 GR    UseNet Echo: alt.bbs.doors
+ABBSW     707 GR    UseNet Echo: alt.bbs.wwiv
+CSCBM     707 GR    USENET comp.sys.cbm
+UNAC64    707 GR    USEnet alt.c64
+UNAHB     707 GR    USENET alt.homebrewing
+UNANM     707 GR    USENET alt.nature.mushrooms
 
 
 様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
