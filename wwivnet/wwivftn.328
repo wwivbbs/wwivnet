@@ -1,4 +1,4 @@
-;A WWIVnet-FTN Nodelist for Sunday, August 25, 2019 -- version number 236
+;A WWIVnet-FTN Nodelist for Sunday, November 24, 2019 -- version number 328
 ;S Copyright 2016, WWIVnet-FTN, All rights reserved.
 ;S
 ;S
@@ -84,8 +84,12 @@
 ;
 ;S 2018-10-21
 ;S Added - Node 221 - The New Frontier ][ BBS
+
 ;S 2019-08-25
 ;S Added - Node 222 - Rocket Town BBS
+;
+;S 2019-08-25
+;S Added - Node 223 - ACME BBS
 ;S ==============================================================================================================
 ;S
 ;S
@@ -119,7 +123,8 @@ Region,1,Weather_Station_HUB,Bel_Air_MD_USA,Mark_Hofmann,-Unpublished-,300,CM,IN
 ,219,The_Hub,Watauga_TX_USA,David_DeWell,-Unpublished-,300,CM,INA:bbs.bbshub.net,IBN
 ,220,Necronomicon_BBS,New_Bedford_MA_USA,Carlos_Roldan,-Unpublished-,300,CM,INA:necrobbs.strangled.net,IBN
 ,221,The_New_Frontier_][_BBS,Akron_OH_USA,Charles_Stephenson,-Unpublished-,300,CM,INA:thenewfrontier2.hopto.org,IBN:24555
-,222,Rocket Town BBS,Titusville_FL_USA,Ricky_DeLuco,-Unpublished-,300,CM,INA:rtbbs.ddns.net,IBN
+,222,Rocket_Town_BBS,Titusville_FL_USA,Ricky_DeLuco,-Unpublished-,300,CM,INA:rtbbs.ddns.net,IBN
+,223,ACME_BBS,Albany_OR_USA,Don_Lowery,-Unpublished-,300,CM,INA:acmebbs.ddns.net,IBN
 
 
 
