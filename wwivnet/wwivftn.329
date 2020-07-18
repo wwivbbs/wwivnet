@@ -90,6 +90,9 @@
 ;
 ;S 2019-08-25
 ;S Added - Node 223 - ACME BBS
+;
+;S 2020-07-18
+;S Added - Node 224 - Insane Asylum
 ;S ==============================================================================================================
 ;S
 ;S
@@ -125,6 +128,7 @@ Region,1,Weather_Station_HUB,Bel_Air_MD_USA,Mark_Hofmann,-Unpublished-,300,CM,IN
 ,221,The_New_Frontier_][_BBS,Akron_OH_USA,Charles_Stephenson,-Unpublished-,300,CM,INA:thenewfrontier2.hopto.org,IBN:24555
 ,222,Rocket_Town_BBS,Titusville_FL_USA,Ricky_DeLuco,-Unpublished-,300,CM,INA:rtbbs.ddns.net,IBN
 ,223,ACME_BBS,Albany_OR_USA,Don_Lowery,-Unpublished-,300,CM,INA:acmebbs.ddns.net,IBN
+,224,Insane_Asylum,Racine_WI_USA,Jim_Kulwicki,-Unpublished-,300,CM,INA:asylumbbs.net,IBN
 
 
 
