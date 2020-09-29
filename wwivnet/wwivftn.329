@@ -93,6 +93,8 @@
 ;
 ;S 2020-07-18
 ;S Added - Node 224 - Insane Asylum
+;S 2020-09-29
+;S Added - Node 225 - Coffee House BBS
 ;S ==============================================================================================================
 ;S
 ;S
@@ -129,6 +131,7 @@ Region,1,Weather_Station_HUB,Bel_Air_MD_USA,Mark_Hofmann,-Unpublished-,300,CM,IN
 ,222,Rocket_Town_BBS,Titusville_FL_USA,Ricky_DeLuco,-Unpublished-,300,CM,INA:rtbbs.ddns.net,IBN
 ,223,ACME_BBS,Albany_OR_USA,Don_Lowery,-Unpublished-,300,CM,INA:acmebbs.ddns.net,IBN
 ,224,Insane_Asylum,Racine_WI_USA,Jim_Kulwicki,-Unpublished-,300,CM,INA:asylumbbs.net,IBN
+,225,Coffee_House_BBS,Lisle_IL_USA,Jeffrey_Bodenstein,-Unpublished-,300,CM,INA:bbs.coffeehousebbs.me,IBN
 
 
 
