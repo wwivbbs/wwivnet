@@ -99,6 +99,9 @@
 ;S Added - Node 226 - Point Of No Return BBS
 ;S 2020-10-18
 ;S Added - Node 227 - The Underground
+;S 2020-10-25
+;S Added - Node 228 - Inner Realm
+;S Added - Node 229 - The Drunken Gamer
 ;S ==============================================================================================================
 ;S
 ;S
@@ -138,6 +141,8 @@ Region,1,Weather_Station_HUB,Bel_Air_MD_USA,Mark_Hofmann,-Unpublished-,300,CM,IN
 ,225,Coffee_House_BBS,Lisle_IL_USA,Jeffrey_Bodenstein,-Unpublished-,300,CM,INA:bbs.coffeehousebbs.me,IBN
 ,226,Point_Of_No_Return_BBS,Toronto_Ontario_Canada,Mark_Da_Silva,-Unpublished-,300,CM,INA:pointofnoreturn.zapto.org,IBN
 ,227,The_Underground,Carmel_Indiana_USA,Doug_Cooper,-Unpublished-,300,CM,INA:www.theunderground.us,IBN
+,228,Inner_Realm,Charlotte_NC_USA,Michael_Long,-Unpublished-,300,CM,INA:innerrealmbbs.us,IBN
+,229,The_Drunken_Gamer,Berkeley_CA_USA,Robbie_Whiting,-Unpublished-,300,CM,INA:thedrunkengamer.com,IBN
 
 
 
