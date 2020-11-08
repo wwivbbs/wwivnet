@@ -102,6 +102,7 @@
 ;S 2020-10-25
 ;S Added - Node 228 - Inner Realm
 ;S Added - Node 229 - The Drunken Gamer
+;S Added - Node 230 - 2o fOr beeRS bbS
 ;S ==============================================================================================================
 ;S
 ;S
@@ -143,6 +144,7 @@ Region,1,Weather_Station_HUB,Bel_Air_MD_USA,Mark_Hofmann,-Unpublished-,300,CM,IN
 ,227,The_Underground,Carmel_Indiana_USA,Doug_Cooper,-Unpublished-,300,CM,INA:www.theunderground.us,IBN
 ,228,Inner_Realm,Charlotte_NC_USA,Michael_Long,-Unpublished-,300,CM,INA:innerrealmbbs.us,IBN
 ,229,The_Drunken_Gamer,Berkeley_CA_USA,Robbie_Whiting,-Unpublished-,300,CM,INA:thedrunkengamer.com,IBN
+,230,2o_fOr_beeRS_bbS,Portland_OR_USA,paul_lee,-Unpublished-,300,CM,INA:20ForBeers.com,IBN
 
 
 
