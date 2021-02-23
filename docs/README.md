@@ -22,14 +22,18 @@ networking, as well as support joining using Fido Network Technology
 
 # WWIVnet Application
 
-WWIVnet is a mail network for WWIV, and compatible bulletin board
-systems. If you would like to join, please fill out this application.
-When you've completed it, you must rename it to <last_name>.APP. This is
-to prevent it from being looked over or overwritten by another application.
+WWIVnet is a mail network for WWIV BBSes and compatible bulletin board
+systems. If you would like to join, please read this document and fill out 
+this application.  When you've completed the application, you must rename it 
+to <last_name>.APP. This is to prevent it from being looked over or 
+overwritten by another application.
 
 The best way to have your application processed is to get on a WWIVnet
 BBS and mail this completed application to either the WWIVnet Network 
 Coordinator, Weatherman 1@1 WWIVnet or email mark@weather-station.org
+
+**Submission of an application signals your agreement to abide by the**
+**Code of Conduct below**
 
 ```
 
@@ -80,6 +84,34 @@ WWIVnet-FTN Specific Information:
 [END]
 
 ```
+
+# Code of Conduct
+
+This section *only* pertains to traffic that passes through the network 
+WWIVnet. It claims no scope or authority over messages or activity that 
+does not enter the network.
+
+Each SYSOP is responsible for the actions and messages of any user 
+originating from thier system when those messages enter WWIVnet. If 
+any SYSOP allows traffic to enter the WWIVnet via their system (e.g. from 
+a program, gateway, or other source), that SYSOP is responsible for that 
+traffic. 
+
+Permitting the following traffic over the network can result in disciplinary 
+action, including but not limited to expulsion of the system from WWIVnet:
+
+* Illegal activity, defined as engaging in conduct that a reasonable person 
+would deem that violates applicable federal, state, local, or international 
+law or regulation. When a question of locality is in question, the locality 
+shall be the physical location of 1@1.
+
+* Harmful code, defined as code that may be deemed harmful, dangerous, or 
+destructive in any manner. An exception is made for *clearly labeled* 
+samples for forensic and educational purposes, where significant action 
+must be taken by a user to activate the payload.
+
+* Other activities that may harm WWIVnet, as determined by 1@1 and the 
+collective SYSOPs of WWIVnet.
 
 ---
 
