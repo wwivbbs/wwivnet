@@ -107,6 +107,7 @@
 ;S Added - Node 232 - Caught in a Dream
 ;S Added - Node 233 - Dark Systems BBS
 ;S Added - Node 234 - Anarchy BBS
+;S Added - Node 235 - The Wrong Number ][ BBS
 ;S ==============================================================================================================
 ;S
 ;S
@@ -153,6 +154,7 @@ Region,1,Weather_Station_HUB,Bel_Air_MD_USA,Mark_Hofmann,-Unpublished-,300,CM,IN
 ,232,Caught_in_a_Dream,Denver_CO_USA,Brian_Klauss,-Unpublished-,300,CM,INA:caughtinadream.com,IBN
 ,233,Dark_Systems_BBS,Toronto_Ontario_Canada,Aaron_Glasswell,-Unpublished-,300,CM,INA:bbs.dsbbs.ca,IBN
 ,234,Anarchy_BBS,Inverness_Florida_USA,Greg_Youngblood,-Unpublished-,300,CM,INA:anarchybbs.com,IBN
+,235,The_Wrong_Number_][_BBS,Yorktown_Heights_New_York_USA,Al_DeRosa,-Unpublished-,300,CM,INA:wn2.duckdns.org,IBN
 
 
 
