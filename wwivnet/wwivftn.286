@@ -110,6 +110,8 @@
 ;S Added - Node 235 - The Wrong Number ][ BBS
 ;S 2022-09-25
 ;S Added - Node 236 - LinuxNode BBS
+;S 2024-10-06
+;S Added - Node 237 - Global Chaos BBS
 ;S ==============================================================================================================
 ;S
 ;S
@@ -158,6 +160,7 @@ Region,1,Weather_Station_HUB,Bel_Air_MD_USA,Mark_Hofmann,-Unpublished-,300,CM,IN
 ,234,Anarchy_BBS,Inverness_Florida_USA,Greg_Youngblood,-Unpublished-,300,CM,INA:anarchybbs.com,IBN
 ,235,The_Wrong_Number_][_BBS,Yorktown_Heights_New_York_USA,Al_DeRosa,-Unpublished-,300,CM,INA:wn2.duckdns.org,IBN
 ,236,LinuxNode_BBS,Lindale_TX_USA,Chad_Adams,-Unpublished-,300,CM,INA:bbs.linuxnode.com,IBN
+,237,Global_Chaos_BBS,Prittriching_DE_Germany,Michael_Selhof,-Unpublished-,300,CM,INA:globalchaosbbs.com,IBN
 
 
 Pvt,999,New_System,AnyTown_AnyCountry,New_Sysop,-Unpublished-,300
